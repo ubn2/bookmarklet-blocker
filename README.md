@@ -6,7 +6,7 @@
   3. Deletes any bookmarks the user tries to turn into a bookmarklet
 
 #### Warning
-Use at your own risk, you can't recover any deleted bookmarklets so make sure you target the right audiance. A future release will allow admins to set an allow-list of bookmarklets to keep. 
+Use at your own risk, you can't recover any deleted bookmarklets so make sure you target the right audience. A future release will allow admins to set an allow-list of bookmarklets to keep. 
 
 ## License
 Apache 2.0
