@@ -1,0 +1,18 @@
+{
+  "name": "Bookmarklet Blocker",
+  "description": "Removes any current, new, or edited Bookmarklets",
+  "author": "FUN",
+  "version": "2.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "src/js/background.js"
+  },
+  "permissions": ["bookmarks"],
+  "icons": {
+    "16": "src/images/logo-16.png",
+    "32": "src/images/logo-32.png",
+    "48": "src/images/logo-48.png",
+    "128": "src/images/logo-128.png"
+  }
+}
+ 
