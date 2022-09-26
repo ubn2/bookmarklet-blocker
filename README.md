@@ -1,7 +1,7 @@
 # Chrome extension to prevent users from using Bookmarklet exploits
 
 #### The extension has the following features: 
-  1. Deletes any pre-existing bookmarklets
+  1. Deletes any pre-existing bookmarklets during installation
   2. Deletes any newly created bookmarklet
   3. Deletes any bookmarks the user tries to turn into a bookmarklet
 
