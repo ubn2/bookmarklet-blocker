@@ -8,5 +8,8 @@
 #### Warning
 Use at your own risk, you can't recover any deleted bookmarklets so make sure you target the right audience. A future release will allow admins to set an allow-list of bookmarklets to keep. 
 
+### Available in the Chrome Web Store
+  https://chrome.google.com/webstore/detail/bookmarklet-blocker/gdhdnobamnidchjingdjmipgcijggjdl
+  
 ## License
 Apache 2.0
